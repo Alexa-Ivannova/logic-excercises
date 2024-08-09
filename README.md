@@ -12,6 +12,7 @@ El repositorio está organizado en varios archivos y carpetas, cada uno abordand
 - *logic2/*: Solución para extraer la ultima palabra de un string.
 - *logic3/*: Solución para extraer la segunda palabra de un string.
 - *logic4/*: Solución para realizar la suma de los valores númericos de un array. Incluye 4 soluciones
+- *logic5/*: Solución para obtener el correo de un usuario de un objeto. Incluye 2 soluciones
 
 - *.gitignore*: Archivos y directorios que deben ser ignorados por Git.
 
