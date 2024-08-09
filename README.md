@@ -10,6 +10,8 @@ El repositorio está organizado en varios archivos y carpetas, cada uno abordand
 ## Contenidos del Repositorio
 - *logic1/*: Solución para extraer la ultima letra de un string. Incluye 2 soluciones al ejercicio.
 - *logic2/*: Solución para extraer la ultima palabra de un string.
+- *logic3/*: Solución para extraer la segunda palabra de un string.
+- *logic4/*: Solución para realizar la suma de los valores númericos de un array. Incluye 4 soluciones
 
 - *.gitignore*: Archivos y directorios que deben ser ignorados por Git.
 
