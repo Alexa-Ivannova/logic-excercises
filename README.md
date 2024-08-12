@@ -14,6 +14,8 @@ El repositorio está organizado en varios archivos y carpetas, cada uno abordand
 - *logic4/*: Solución para realizar la suma de los valores númericos de un array. Incluye 4 soluciones
 - *logic5/*: Solución para obtener el correo de un usuario de un objeto. Incluye 2 soluciones
 - *logic6/*: Solución para obtener todos los correos de un arra de objetos.
+- *logic7/*: Solución para eliminar usuario de una array. Incluye 2 soluciones
+
 
 - *.gitignore*: Archivos y directorios que deben ser ignorados por Git.
 
