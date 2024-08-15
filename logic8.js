@@ -103,4 +103,5 @@ const mergeData = (user, asistencia) => {
   
 //   if ( correos.includes(primerCorreo)){
 //       console.log("si existe correo de george");
-//   }
+  }
+}

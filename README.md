@@ -15,6 +15,8 @@ El repositorio está organizado en varios archivos y carpetas, cada uno abordand
 - *logic5/*: Solución para obtener el correo de un usuario de un objeto. Incluye 2 soluciones
 - *logic6/*: Solución para obtener todos los correos de un arra de objetos.
 - *logic7/*: Solución para eliminar usuario de una array. Incluye 2 soluciones
+- *logic8/*: Solución para mezclar dos array. 
+- *logic9/*: Solución para para calcular tiempos para una receta.
 
 
 - *.gitignore*: Archivos y directorios que deben ser ignorados por Git.
