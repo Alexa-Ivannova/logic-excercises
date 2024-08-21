@@ -17,6 +17,7 @@ El repositorio está organizado en varios archivos y carpetas, cada uno abordand
 - *logic7/*: Solución para eliminar usuario de una array. Incluye 2 soluciones
 - *logic8/*: Solución para mezclar dos array. 
 - *logic9/*: Solución para para calcular tiempos para una receta.
+- *logic10/*: Solución para para juego "Liberar Prisionero", implementación de Booleans.
 
 
 - *.gitignore*: Archivos y directorios que deben ser ignorados por Git.
