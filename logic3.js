@@ -14,3 +14,4 @@ function findSecondWord(indexArray){
 }
 
 findSecondWord(arrayPalabra)
+
